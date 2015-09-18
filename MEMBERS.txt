@@ -14,4 +14,4 @@ yo!
 
 Role in project: team leader
  
-Preferred branch of engineering: software
+Preferred branch of engineering: softwarE
