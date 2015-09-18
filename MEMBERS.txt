@@ -1,9 +1,7 @@
-LIST OF MEMBERS FOR TEAM X
- 
-MEMBER 1 NAME
- 
-MEMBER 2 NAME
- 
-MEMBER 3 NAME
- 
-MEMBER 4 NAME
+Mayank
+
+I am a student.
+
+Role in project: team leader
+
+preferred branch: software
