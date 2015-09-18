@@ -1,9 +1,17 @@
 LIST OF MEMBERS FOR TEAM X
  
-MEMBER 1 NAME
+
  
 MEMBER 2 NAME
  
 MEMBER 3 NAME
  
-MEMBER 4 NAME
+Ruth Hicks
+
+Hello everyone :-)
+ 
+Role in project: project manager
+ 
+Preferred branch of engineering: civil
+
+Please sync with server
